@@ -1,11 +1,11 @@
-# aurora
+## aurora
 ~ new earth new school
 
-# gateways (twtr)
+## gateways (twtr)
 ~ humansarelove
 ~ spreadaurora
 ~ issaflame9
 ~ lavandulaaura
 
-# g
-dm any gateway to join gateway list
+## g
+dm gateway to join list
