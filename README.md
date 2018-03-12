@@ -6,6 +6,8 @@
 ~ spreadaurora
 ~ issaflame9
 ~ lavandulaaura
+~ iunderachieve
+~ issa_GOLD
 
 ## g
 dm gateway to join list
